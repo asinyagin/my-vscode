@@ -3,6 +3,7 @@
   "displayName": "My vscode",
   "description": "",
   "version": "0.0.1",
+  "repository": "https://github.com/asinyagin/my-vscode",
   "engines": {
     "vscode": "^1.97.0"
   },
